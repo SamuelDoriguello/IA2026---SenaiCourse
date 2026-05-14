@@ -3,8 +3,7 @@ from agno.models.openai import OpenAIChat
 from agno.db.sqlite import SqliteDb
 
 
-API = "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"
-
+API = ""
 
 agenteMemo = Agent(
     model = OpenAIChat(
