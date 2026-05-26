@@ -6,7 +6,7 @@ from agno.db.sqlite import SqliteDb
 from pathlib import Path
 
 
-API =
+#API =
 
 
 def tela() -> str:
